@@ -1,56 +1,45 @@
 <!DOCTYPE html>
-<html>
-		
-		Chapter 11 Assignment
-		JavaJam
-		
-		music.html
-	-->
-	<head>
-		<title>JavaJam Coffee House Music</title>
-		<link rel="stylesheet" href="javajam.css">
-		<!-- [if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
-		</script>
-		<![endif]-->
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	</head>
-	<body>
-		<div id="wrapper">
-		<header>
-			<h1>JavaJam Coffee House</h1>
-		</header>
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="menu.html">Menu</a></li>
-				<li><a href="music.html">Music</a></li>
-				<li><a href="jobs.html">Jobs</a></li>
-			</ul>
-		</nav>
-		<main>
-			<p>The first Friday night each month at JavaJam is a special night!  Join us from 8pm to 11pm for some music you won&rsquo;t want to miss!</p>
-			<h2>January</h2>
-			<p class="details"><a href="melanie.jpg"><img src="melaniethumb.jpg" height="80" width="80" alt="Melanie Morris" class="floatleft"></a>Melanie Morris entertains with her melodic folk style.  Check out the podcast!  CDs are now available.
-			<audio controls="controls">
-				<source src="melanie.mp3" type="audio/mpeg">
-				<source src="melanie.ogg" type="audio/ogg">
-				<a href="melanie.mp3">Download a sample MP3!</a>
-			</audio>
-			</p>
-			<h2>February</h2>
-			<p class="details"><a href="greg.jpg"><img src="gregthumb.jpg" width="80" height="80" alt="Tahoe Greg" class="floatleft"></a>Tahoe Greg&rsquo;s back from his tour.  New songs.  New stories.  CDs are now available.
-			<audio controls="controls">
-				<source src="greg.mp3" type="audio/mpeg">
-				<source src="greg.ogg" type="audio/ogg">
-				<a href="greg.mp3">Download a sample MP3!</a>
-			</audio>
-			</p>
-		</main>
-		<footer>
-			Copyright &copy; 2020 JavaJam Coffee House<br>			
-		</footer>
+
+<html lang="en">
+<head>
+	<title>JavaJam Coffee House</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="javajam.css">
+</head>
+<body>
+<div id="wrapper">
+<header>
+	<h1>JavaJam Coffee House</h1>
+</header>
+<nav>
+	<ul>
+	
+	<li><a href="home.html">Home</a></li>
+	<li><a href="menu.html">Menu</a></li>
+	<li><a href="music.html">Music</a></li>
+	<li><a href="jobs.html">Jobs</a></li>
+	</ul>
+</nav>
+<main>
+	<div id="heroguitar"></div>
+	<h2>Music at JavaJam</h2>
+	<p>The first Friday night each month at JavaJam is a special night. Join us from 8 pm to 11 pm for some music you won&#39;t want to miss!</p>
+	<h4>January</h4>
+		<div class="details">
+			<img src="melaniethumb.jpg" alt="Melanie Morris" height="80" width="80" class="floatleft">
+			Melanie Morris entertains with her melodic folk style.
+			
 		</div>
-	</body>
+	<h4>February</h4>
+		<div class="details">
+			<img src="gregthumb.jpg" alt="Tahoe Greg" height="80" width="80" class="floatleft">
+			Tahoe Greg is back from his tour. New songs. New stories.
+		
+		</div>
+</main>
+	<footer>Copyright &copy; 2016 JavaJam Coffee House<br>
+	<i><a href="#">ajinkya@ghadge.com</a></i>
+	</footer>
+</div>
+</body>
 </html>
