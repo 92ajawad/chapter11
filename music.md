@@ -1,55 +1,60 @@
 <!DOCTYPE html>
--->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>JavaJam Coffee House Music</title>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="./JavaJam Coffee House Music_files/javajam.css">
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
-</script>
-<![endif]-->
-</head>
-<body>
-<div id="wrapper">
-<header>
-<h1>JavaJam Coffee House</h1>
-</header>
-<nav>
-<ul>
- 
-</ul>
-</nav>
-<main>
-<div id="heroguitar"></div>
-<h2>Music at JavaJam</h2>
-<p>The first Friday night each month at JavaJam is a special night. Join us from 8 pm to 11 pm for some music you won't want to miss!</p>
-<h4>January</h4>
-<div class="details">
-<a href<img src="./JavaJam Coffee House Music_files/melaniethumb.jpg" class="floatleft" alt="Melanie Morris" width="80" height="80"></a>Melanie Morris entertains with her melodic folk style.
-<audio controls="controls">
-      <source src="melanie.mp3" type="audio/mpeg">
-      <source src="melanie.ogg" type="audio/ogg">
-      mp3">Download the Audio File</a> (MP3)
-</audio>
-</div>
-
-<h4>February</h4>
-<div class="details">
-<img src="./JavaJam Coffee House Music_files/gregthumb.jpg" class="floatleft" alt="Tahoe Greg" width="80" height="80"></a>
-Tahoe Greg is back from his tour. New songs. New stories.
-<audio controls="controls">
-      <source src="greg.mp3" type="audio/mpeg">
-      <source src="greg.ogg" type="audio/ogg">
-      
-</audio>
-</div>
-
-</main>
-<footer>
-Copyright © 2020 JavaJam Coffee House<br>
-</footer>
-</div>
-
-
+<html>
+	<!--Joshua Hipple
+		CIS 216 - W1
+		
+		Chapter 11 Assignment
+		JavaJam
+		
+		music.html
+	-->
+	<head>
+		<title>JavaJam Coffee House Music</title>
+		<link rel="stylesheet" href="javajam.css">
+		<!-- [if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+		</script>
+		<![endif]-->
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<div id="wrapper">
+		<header>
+			<h1>JavaJam Coffee House</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="menu.html">Menu</a></li>
+				<li><a href="music.html">Music</a></li>
+				<li><a href="jobs.html">Jobs</a></li>
+			</ul>
+		</nav>
+		<main>
+			<p>The first Friday night each month at JavaJam is a special night!  Join us from 8pm to 11pm for some music you won&rsquo;t want to miss!</p>
+			<h2>January</h2>
+			<p class="details"><a href="melanie.jpg"><img src="melaniethumb.jpg" height="80" width="80" alt="Melanie Morris" class="floatleft"></a>Melanie Morris entertains with her melodic folk style.  Check out the podcast!  CDs are now available.
+			<audio controls="controls">
+				<source src="melanie.mp3" type="audio/mpeg">
+				<source src="melanie.ogg" type="audio/ogg">
+				<a href="melanie.mp3">Download a sample MP3!</a>
+			</audio>
+			</p>
+			<h2>February</h2>
+			<p class="details"><a href="greg.jpg"><img src="gregthumb.jpg" width="80" height="80" alt="Tahoe Greg" class="floatleft"></a>Tahoe Greg&rsquo;s back from his tour.  New songs.  New stories.  CDs are now available.
+			<audio controls="controls">
+				<source src="greg.mp3" type="audio/mpeg">
+				<source src="greg.ogg" type="audio/ogg">
+				<a href="greg.mp3">Download a sample MP3!</a>
+			</audio>
+			</p>
+		</main>
+		<footer>
+			Copyright &copy; 2014 JavaJam Coffee House<br>
+			<a href="mailto:joshua@hipple.com">joshua@hipple.com</a>			
+		</footer>
+		</div>
+	</body>
+</html>
 </body></html>
