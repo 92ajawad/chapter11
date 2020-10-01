@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-	<!--Joshua Hipple
-		CIS 216 - W1
 		
 		Chapter 11 Assignment
 		JavaJam
