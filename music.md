@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0069)http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/music.html -->
+-->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>JavaJam Coffee House Music</title>
 
@@ -17,10 +17,7 @@
 </header>
 <nav>
 <ul>
-  <li><a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/index.html">Home</a></li>
-  <li><a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/menu.html">Menu</a></li>
-  <li><a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/music.html">Music</a></li>
-  <li><a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/jobs.html">Jobs</a></li>
+ 
 </ul>
 </nav>
 <main>
@@ -29,22 +26,22 @@
 <p>The first Friday night each month at JavaJam is a special night. Join us from 8 pm to 11 pm for some music you won't want to miss!</p>
 <h4>January</h4>
 <div class="details">
-<a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/melanie.jpg"><img src="./JavaJam Coffee House Music_files/melaniethumb.jpg" class="floatleft" alt="Melanie Morris" width="80" height="80"></a>Melanie Morris entertains with her melodic folk style.
+<a href<img src="./JavaJam Coffee House Music_files/melaniethumb.jpg" class="floatleft" alt="Melanie Morris" width="80" height="80"></a>Melanie Morris entertains with her melodic folk style.
 <audio controls="controls">
       <source src="melanie.mp3" type="audio/mpeg">
       <source src="melanie.ogg" type="audio/ogg">
-      <a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/melnanie.mp3">Download the Audio File</a> (MP3)
+      mp3">Download the Audio File</a> (MP3)
 </audio>
 </div>
 
 <h4>February</h4>
 <div class="details">
-<a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/greg.jpg"><img src="./JavaJam Coffee House Music_files/gregthumb.jpg" class="floatleft" alt="Tahoe Greg" width="80" height="80"></a>
+<img src="./JavaJam Coffee House Music_files/gregthumb.jpg" class="floatleft" alt="Tahoe Greg" width="80" height="80"></a>
 Tahoe Greg is back from his tour. New songs. New stories.
 <audio controls="controls">
       <source src="greg.mp3" type="audio/mpeg">
       <source src="greg.ogg" type="audio/ogg">
-      <a href="http://www.personal.psu.edu/~users/r/m/rmb5985/art101/ch11/greg.mp3">Download the Audio File</a> (MP3)
+      
 </audio>
 </div>
 
